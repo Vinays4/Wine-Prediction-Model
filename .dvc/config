@@ -1,4 +1,0 @@
-[core]
-    remote = wineremote
-['remote "wineremote"']
-    url = s3://mlops-demo-abhishek-dvc-bucket
